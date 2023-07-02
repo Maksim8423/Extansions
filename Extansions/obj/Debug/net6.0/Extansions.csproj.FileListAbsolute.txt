@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Extansions\Extansions\bin\Debug\net6.0\Extansions.exe
+C:\Users\Lenovo\source\repos\Extansions\Extansions\bin\Debug\net6.0\Extansions.deps.json
+C:\Users\Lenovo\source\repos\Extansions\Extansions\bin\Debug\net6.0\Extansions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Extansions\Extansions\bin\Debug\net6.0\Extansions.dll
+C:\Users\Lenovo\source\repos\Extansions\Extansions\bin\Debug\net6.0\Extansions.pdb
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.dll
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\refint\Extansions.dll
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.pdb
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\Extansions.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Extansions\Extansions\obj\Debug\net6.0\ref\Extansions.dll
